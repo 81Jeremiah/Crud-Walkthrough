@@ -8,12 +8,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
-    <option name="y" value="62" />
+    <option name="x" value="662" />
+    <option name="y" value="95" />
     <option name="width" value="1304" />
     <option name="height" value="790" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -26,6 +30,11 @@
             <path>
               <item name="Crud-Walkthrough" type="b2602c69:ProjectViewProjectNode" />
               <item name="Crud-Walkthrough" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crud-Walkthrough" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crud-Walkthrough" type="462c0819:PsiDirectoryNode" />
+              <item name="crudapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -62,7 +71,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="62" width="1304" height="790" extended-state="0" />
+    <frame x="430" y="73" width="1304" height="790" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941543" />
