@@ -12,3 +12,5 @@ class blog_posts(models.Model):
         return self.title
 
     def get_post_url(self):
+        return reverse('post_edit', kwargs={'pk': self.pk})
+
