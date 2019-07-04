@@ -1,9 +1,10 @@
-from __future__ import unicode_literals
+# from __future__ import unicode_literals
 
 from django.shortcuts import render, redirect, get_object_or_404
 from django.forms import ModelForm
+from django.http import HttpResponse, HttpResponseRedirect
 
-from blog_posts.models import blog_posts
+from .models import blog_posts
 # Create your views here.
 
 class PostsForm(ModelForm):
